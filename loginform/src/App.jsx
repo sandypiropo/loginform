@@ -10,11 +10,11 @@ function App() {
         <h1>LOGIN FORM</h1>
         <div className='input-box'>
           <input type='text' placeholder='Username' required /> 
-          <FaUserAlt />
+          <FaUserAlt className='custom-icon'/>
         </div>
         <div className='input-box'>
           <input type='password' placeholder='Password' required />
-          <FaLock />
+          <FaLock className='custom-icon'/>
         </div>
 
         <div className='remember-forget'>
