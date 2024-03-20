@@ -13,7 +13,7 @@ This project (currently a small project aimed at replicating a video I watched f
 - [x] Clean CSS on Login screen
 - [ ] Axios integration
 - [ ] Responsive design
-- [ ] Registration screen
+- [ ] Register screen
 - [ ] Password reset screen
 
 <h2>How to Run Locally?</h2>
